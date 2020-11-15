@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # react-cafe-shop
 =======
 # Getting Started with Create React App
@@ -72,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> 6ec77fc (Add project on github)
+=======
+# react-cafe-shop
+>>>>>>> 1bbf20fd233522fbed50ade197a568c49229132c
